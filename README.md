@@ -6,7 +6,7 @@
 + 🔭 I’m currently working on metaheuristic approaches for deep neural network optimization in NLP tasks.
 + 🌱 I’m currently learning Natural Language Processing, Deep Learning and Transformers
 
-Profesor at [👨‍🏫University of Informatics Science👨‍🏫](https://www.uci.cu/universidad/claustro/orlando-grabiel-toledano-lopez)
+Professor at [👨‍🏫University of Informatics Science👨‍🏫](https://www.uci.cu/universidad/claustro/orlando-grabiel-toledano-lopez)
 
 ### Introduction
 
