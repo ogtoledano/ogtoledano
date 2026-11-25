@@ -3,6 +3,7 @@
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ogtoledano&show_icons=true&count_private=true&theme=synthwave" height = 200>
 </p>
+
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-1798C1?style=flat&logo=salesforce&logoColor=white)
 ![Lightning Web Components](https://img.shields.io/badge/LWC-00A1E0?style=flat&logo=salesforce&logoColor=white)
