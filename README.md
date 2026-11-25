@@ -1,13 +1,10 @@
 ## Orlando Grabiel Toledano-López. 
 
 <p align="center">
-  <img src="https://vercel.app" height="175" alt="GitHub Stats" />
-  <img src="https://vercel.app" height="175" alt="Top Languages" />
-  <img src = "https://vercel.app/api?username=ogtoledano&show_icons=true&count_private=true&theme=synthwave" height = 200>
-  <img src = "https://vercel.app/api/top-langs/?username=ogtoledano&theme=synthwave&langs_count=3&hide=javascript,html,css" height = 200>
+  <img src = "https://github-readme-stats.vercel.app/api?username=ogtoledano&show_icons=true&count_private=true&theme=synthwave" height = 200>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ogtoledano&theme=synthwave&langs_count=3&hide=javascript,html,css" height = 200>
+  [![committers.top badge](https://user-badge.committers.top/cuba/ogtoledano.svg)](https://user-badge.committers.top/cuba/ogtoledano)
 </p>
-
-[![committers.top badge](https://user-badge.committers.top/cuba/ogtoledano.svg)](https://user-badge.committers.top/cuba/ogtoledano)
 
 ### PhD in Computer Science. 
 ### You can follow me on [🧪Research Gate🧪](https://www.researchgate.net/profile/Orlando-Toledano-Lopez-2): 
