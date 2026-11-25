@@ -3,16 +3,16 @@
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ogtoledano&show_icons=true&count_private=true&theme=synthwave" height = 200>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ogtoledano&theme=synthwave&langs_count=3&hide=javascript,html,css" height = 200>
-  [![committers.top badge](https://user-badge.committers.top/cuba/ogtoledano.svg)](https://user-badge.committers.top/cuba/ogtoledano)
 </p>
 
-### PhD in Computer Science. 
-### You can follow me on [🧪Research Gate🧪](https://www.researchgate.net/profile/Orlando-Toledano-Lopez-2): 
+[![committers.top badge](https://user-badge.committers.top/cuba/ogtoledano.svg)](https://user-badge.committers.top/cuba/ogtoledano)
 
-+ 🔭 I’m currently working on metaheuristic approaches for deep neural network optimization in NLP tasks.
-+ 🌱 I’m currently learning Natural Language Processing, Deep Learning and Transformers
+### 🎓 PhD in Computer Science | Data Scientist & Software Developer
+🏛️ Professor & Researcher at [University of Informatics Sciences (UCI)](https://www.uci.cu/universidad/claustro/orlando-grabiel-toledano-lopez)
 
-Professor at [👨‍🏫University of Informatics Science👨‍🏫](https://www.uci.cu/universidad/claustro/orlando-grabiel-toledano-lopez)
+- 🔭 **Current research:** Metaheuristic optimization approaches for deep neural networks in NLP tasks.
+- 🧠 **Focus areas:** Natural Language Processing, Deep Learning, Transformers & High-Performance Computing.
+- 🧪 **Publications & Research:** Follow my work on [ResearchGate](https://www.researchgate.net/profile/Orlando-Toledano-Lopez-2).
 
 ### Introduction
 
