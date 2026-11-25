@@ -25,7 +25,7 @@ I'm a Computer Scientist, researcher, and software developer passionate about Ar
 
 My work focuses on combining mathematical optimization, computational intelligence, and deep learning to solve complex problems, particularly in Natural Language Processing.
 
-🏛️ **Professor & Researcher** at the [University of Informatics Sciences (UCI)](https://www.uci.cu/).
+🏛️ **Professor & Researcher** at the [University of Informatics Sciences (UCI)](https://www.uci.cu/universidad/claustro/orlando-grabiel-toledano-lopez).
 
 🔬 **Research interests**
 - Natural Language Processing (NLP)
@@ -95,8 +95,8 @@ My work focuses on combining mathematical optimization, computational intelligen
 
 My research explores the intersection of Artificial Intelligence, optimization, and Natural Language Processing.
 
-- Metaheuristic algorithms for optimizing deep neural network training.
-- Automatic question generation from Spanish-language corpora.
+- Metaheuristic algorithms for optimizing Deep Neural Network Training.
+- Natural Language Processing and Sentiment Analysis.
 - Intelligent approaches to computational optimization.
 
 📖 Explore my publications and academic work:
